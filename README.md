@@ -58,4 +58,5 @@ Compare output behavior with the JK flip-flop truth table to validate correctnes
 ![waveform](https://github.com/user-attachments/assets/3e9803a2-fbfa-4353-9f7a-c2936a083c2b)
 
 **RESULTS**
+
 The JK flip-flop was successfully implemented and verified in Verilog, with output behavior matching its functional truth table.
